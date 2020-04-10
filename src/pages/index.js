@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import PostLink from "../components/post-link"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import pentlands from "../images/pentlands.jpg"
 
 const IndexPage = ({
   data: {
@@ -16,6 +17,7 @@ const IndexPage = ({
   return (
     <Layout>
       <SEO title="Index" />
+      <img src={pentlands} alt="Pentland Hills" />
       <h1>All posts</h1>
       <div>{Posts}</div>   
     </Layout>
