@@ -15,7 +15,7 @@ gatsby develop
   - [ ] Fonts
 - [ ] layout of homepage
 - [ ] hosting
-- [ ] deployment
+- [x] deployment
 - [ ] copy over old posts
 - [ ] make old posts on blogger redirect to new ones
 - [ ] blog post about Gran Canaria
