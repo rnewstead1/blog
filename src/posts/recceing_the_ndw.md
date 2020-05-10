@@ -6,7 +6,7 @@ title: "Recceing the North Downs Way"
 
 Between Christmas and New year I _almost_ recced the [North Downs Way 50](https://www.centurionrunning.com/races/north-downs-way-50-2020). It was a half plan that sort of fitted in with the holidays. We were down south anyway visiting my folks and trains were running. I booked a Travelodge in Dorking for the evening of Friday 27th December. After Lanzarote my knee was more sore than I wanted to admit but I hoped it would hold out. It felt much better after an emergency massage from [Grant](https://www.equilibry.co.uk/), and he taped my knee up for good measure. We bailed on the annual Boxing Day race due to bad weather and I ran alone instead, testing the knee. It didn't hurt on every step and there were moments where I forgot about the pain. I clung to these.
 
-![Start of the route](../images/recceing_the_ndw/ndw.jpg)
+![Start of the route](../images/recceing-the-ndw/ndw.jpg)
 
 It took 4 trains to get us to Farnham, where the North Downs Way starts. It was dry, not too cold, and we were traveling light, excited to be free and alone after a family Christmas. Excited for another new adventure.
 
@@ -18,7 +18,7 @@ We didn't stop to drink until two and a half hours. We'd been having too much fu
 
 We'd eaten too much. For the next few miles I felt dizzy and ill and Will felt sick. We slowed considerably. I told stories of running cross country races at Denbies Wine Estate and we fantasised about arriving there. It seemed a long time coming. Finally we arrived, just ahead of the rapidly approaching darkness, and saw the shapes and lights of Dorking spread below us. Reaching the main road we turned off the trail and towards town and a hot shower.
 
-![Almost there](../images/recceing_the_ndw/ndw2.jpg)
+![Almost there](../images/recceing-the-ndw/ndw2.jpg)
 
 We had a lovely evening of pizza and Star Wars, although it wasn't a real cinema and the seats had no leg room. After nearly three hours of cramped legs my knee stiffened and walking was painful. We consulted the map and decided to finish early the next day, at Merstham. It was an easy place to get a train from, and meant a much shorter run.
 
