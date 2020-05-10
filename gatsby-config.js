@@ -36,5 +36,4 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
   ],
-  pathPrefix: "/blog",
 }
