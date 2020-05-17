@@ -8,6 +8,8 @@ To continue my running tour of the Canary Islands I went to Lanzarote the week b
 
 ![Will running among the volcanoes](../images/pre-christmas-adventures-in-lanzarote/lz-day1-2.jpg)
 
+<!-- end -->
+
 Our first day on the island was my birthday. After a lazy breakfast we ran in the Parque National de los Volcanoes around the Caldera Blanca. It was hot, dry and dusty, on a largely flat trail with some detours up volcanic craters. We had one sketchy descent where our path disappeared and we had to scramble down the rock face. We stopped to enjoy a picnic lunch on a rock. The last few miles were on road and I felt myself speeding up involuntarily as it somehow felt like the end of a triathlon! I realised why so many road bikers come to Lanzarote. The roads are super smooth, up and down long rolling hills without too much traffic.
 
 ![Me running among the volcanoes](../images/pre-christmas-adventures-in-lanzarote/lz-day1-8.jpeg)

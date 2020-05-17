@@ -23,7 +23,7 @@ export default function Template({
         />
       </div>
     </div>
-      <Link to="/">Back to the homepage</Link>
+      <Link to="/">Home</Link>
     </Layout>
   )
 }

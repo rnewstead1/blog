@@ -6,6 +6,8 @@ title: "Highland 200"
 
 The Highland 200 was a dream of Elaine's, inspired by the [Highland 550](http://www.highlandtrail.net/) mountain bike route. The shortened running version was 200km over 4 days, taking in some of the most interesting parts of the Highlands. The original plan was for three of us to run and two others to support with driving, but of course it didn't work out quite like that. Sickness, childcare issues and injuries intervened and we tweaked the plan so that it just about hung together. Elaine would run, I would mountain bike, Janet would be car support and Tim and Jackie would join for the weekend to accompany Janet on adventures up Munros.
 
+<!-- end -->
+
 Mountain biking was not my first choice. However I picked up a knee niggle after Lavaredo and haven't run much since, so it seemed the safest option. In a previous life I did a fair bit of mountain biking and I'm not bad at it. I spent a summer leading kids on mountain bike trails in the Redwoods of California, but that was a long time ago (and on very cruisey trails). I'd borrowed a mountain bike to use for the summer to give my legs a rest after the Dolomites, but I wasn't very confident with it. On my first outing to the Pentlands the back tyre exploded which wasn't a great sign. I also wasn't confident about how my knee would hold up to 4 days of heavy activity. The physio had encouraged keeping active but there's a chance she didn't fully appreciate what my weekend plans entailed. Still, I was willing to give the adventure my best shot!
 
 ![Starting out](../images/highland-200/starting-out.jpg)

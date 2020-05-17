@@ -9,15 +9,16 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
+        excerpt_separator: `<!-- end -->`,
         plugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
-            },
+            }
           },
-        ],
-      },
+        ]
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -35,6 +36,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-twitter`,
   ],
   pathPrefix: "/blog",
 }

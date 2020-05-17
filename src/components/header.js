@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
       style={{
         margin: `0 auto`,
         maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        padding: `1.45rem 1.0875rem 0.5rem 1.0875rem`,
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -27,9 +27,16 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <div className="top-nav" style={{ paddingTop: `1.45rem` }}>
+        <ul>
+          <li><Link to="/" style={{ color: `white`, textDecoration: `none`, }} >Home</Link></li>
+          <li><Link to="/all-posts" style={{ color: `white`, textDecoration: `none`, }} >All posts</Link></li>
+        </ul>
+      </div>
     </div>
   </header>
 )
+
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
