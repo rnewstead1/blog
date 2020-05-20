@@ -626,3 +626,15 @@ pre tt:after {
   text-decoration: none;
   padding-right: 1.45rem;
 }
+
+.inline-image-left {
+  width: 30%;
+  float: left;
+  padding-right: 1rem;
+}
+
+.inline-image-right {
+  width: 30%;
+  float: right;
+  padding-left: 1rem;
+}

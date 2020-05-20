@@ -10,7 +10,9 @@ The Highland 200 was a dream of Elaine's, inspired by the [Highland 550](http://
 
 Mountain biking was not my first choice. However I picked up a knee niggle after Lavaredo and haven't run much since, so it seemed the safest option. In a previous life I did a fair bit of mountain biking and I'm not bad at it. I spent a summer leading kids on mountain bike trails in the Redwoods of California, but that was a long time ago (and on very cruisey trails). I'd borrowed a mountain bike to use for the summer to give my legs a rest after the Dolomites, but I wasn't very confident with it. On my first outing to the Pentlands the back tyre exploded which wasn't a great sign. I also wasn't confident about how my knee would hold up to 4 days of heavy activity. The physio had encouraged keeping active but there's a chance she didn't fully appreciate what my weekend plans entailed. Still, I was willing to give the adventure my best shot!
 
-![Starting out](../images/highland-200/starting-out.jpg)
+<div class="inline-image-left">
+    <img src="../images/highland-200/starting-out.jpg" alt="starting out"/>
+</div>
 
 ## Day 1 - Garve to Oykel Bridge
 
@@ -25,7 +27,9 @@ _Distance covered for the day: [61.9 km bike](https://www.strava.com/activities/
 ## Day 2 - Oykel Bridge to Inverbroom Lodge
 Day 2 started on a decent Landrover track with some steep sections. My uphill mountain bike strategy was "point and pedal" and I was pleased to find that my legs were still strong from my month in the mountains, and in the lowest gear I could ride up slopes far steeper than I expected. We had an ambitious plan to take a fifteen km detour up a Munro (I planned to leave the bike at the bottom) but we arrived at the turnoff for it in thick mist and decided it was a silly idea! This turned out to be a very good call as the day got rapidly more difficult and energy sapping. We rolled down to a small lochearn with a lonely boat hugging its shore, then headed off path and into bog. I carried the bike down a steep tussocky slope to a river, across it and back up the other side. We laughed about it, not realising that this was to become the new pattern for the afternoon. But first some technical single track with a steep drop off on the left. It looked great fun to run but I was a little nervous on the bike. Luckily my good right leg was my uphill leg so I could use it to push off sections and I managed to stay on the bike (and on the trail)!
 
-![Pushing the bike in the mist](../images/highland-200/misty.jpg)
+<div class="inline-image-right" style="width: 50%">
+    <img src="../images/highland-200/misty.jpg" alt="Pushing the bike in the mist"/>
+</div>
 
 The day got wetter as we headed even further off path to follow the Cape Wrath trail. It seemed to be mainly unmarked but the GPS told us we were on track. We came across a hiker going in the opposite direction. He told us that we had a lot more off-path and boggy sections to come. He was right. The next three hours were a long slog through bog, across tussocky ground and up steep grassy banks. I pushed the bike when I could and carried it on my shoulder when I couldn't. A few times we climbed up things that were so steep the weight of the bike toppled me over. It was intermittently raining but quite warm. Elaine told me afterwards that the views were good, but I struggled to focus on anything other than keeping the bike on my shoulder and keeping moving. My sore knee did not enjoy the off camber weighted hike. Yet somehow we stayed in good spirits and kept smiling. This was all part of the adventure, and that's what we'd signed up for! Finally we reached Inverlael Forest and gravel tracks. I jumped back on the bike and freewheeled down, savouring the easy descents. We made up some extra distance in the forest here and finished feeling strong and happy as the sun came back out.
 
@@ -41,7 +45,9 @@ _Distance covered for the day: [38.82 km bike](https://www.strava.com/activities
 
 ## Day 3 - Inverbroom Lodge - near Poolewe
 
-![Keen to start](../images/highland-200/day-3-start.jpg)
+<div class="inline-image-left" style="width: 50%">
+    <img src="../images/highland-200/day-3-start.jpg" alt="Keen to start"/>
+</div>
 
 Getting out of bed on the morning of day 3 was very difficult. My arms and back were very stiff from all the bike carrying! I wasn't sure how much more of that I'd be able to do. However we'd looked at the next part of route and thought that after the first section it should all be rideable. I made a last minute decision to run the first section with Elaine rather than wait around for her with the bike. We spent the first ten minutes trying to reunite a lamb with its mother. It had ended up in a neighbouring field and we came across them bleating at each other in distress and eventually managed to coax the lamb through a gate to rejoin the other sheep. Running together was much more fun and much more social than biking as our pace was more evenly matched. However I had to check my ego on the descent and let Elaine fly ahead. I picked my way down more cautiously in order to protect my left knee. After ten km we reached a road crossing where Janet had left the bike. I picked that up and we started on a big climb up a wide track. It got very steep with lots of loose gravel so I ended up pushing the bike for most of it. As the track got steeper and rockier still we were amazed to see three Landrovers pass us! We hadn't seen anyone else all day and it seemed very wrong to see these machines cutting through the landscape here!
 
@@ -65,7 +71,9 @@ Views from our accommodation in Aultbea
 
 After a long chat with Adam the bike expert / owner I understood what the problem was with the back wheel and how to fix it. It took a lot of patience but I eventually managed to do so and we began the final morning without too much delay. It was wet from the start and the forecast was for it to get wetter. It wasn't the ideal end to our adventure but perhaps the most fitting for the north of Scotland (in July)! We set off amidst a cloud of midges onto some challenging technical paths.
 
-![Final day](../images/highland-200/start-day-4.jpg)
+<div class="inline-image-left" style="width: 50%">
+    <img src="../images/highland-200/start-day-4.jpg" alt="Final day"/>
+</div>
 
 There was so much water on the trail that it felt like riding through a river. I got a second back puncture  but this time changed the tube and got the wheel back on without any drama (except being eaten alive by midges). This first trail section took us longer than we'd anticipated but we finally reached the A832. Elaine crossed the road and set off onto another trail. Her route involved a big off-path section between trails that would be silly to attempt on a bike. I set off to go the long way round on the road to intercept her at the next road crossing on the A896. My "easy" ride here was 18 miles up and down hills in lashing rain and wind. I enjoyed being able to ride fast on the smooth surface but cars sped past me too close and too fast and I worried for my safety. I stopped at the gas station in Kinlochewe for a much-needed espresso before the final 6 miles into a headwind on the road to Torridon.
 
@@ -77,7 +85,9 @@ I left the bike partway down the road and set off to meet Elaine. I started out 
 
  _Distance covered for the day: [37.87 km bike](https://www.strava.com/activities/2553846326), [12.55 km run](https://www.strava.com/activities/2553847604)._
 
-![Food](../images/highland-200/food.jpg)
+<div class="inline-image-left" style="width: 50%">
+    <img src="../images/highland-200/food.jpg" alt="food!" />
+</div>
 
 Luckily there was a hot shower, hot food and entertaining stories waiting for us in Strathcarron, and hosts who didn't mind that we arrived a few hours later than we planned! It didn't take long to feel human again. However it took longer to forget the feeling of being scared and alone on the hill in bad weather, not knowing where your friend is. It was a good lesson for us both. Luckily it all ended well and was a great adventure!
 

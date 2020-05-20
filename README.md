@@ -11,7 +11,7 @@ gatsby develop
 
 ## TODO
 - [ ] Styling
-  - [ ] Inline images
+  - [x] Inline images
   - [ ] Fonts
 - [ ] layout of homepage
 - [ ] hosting
