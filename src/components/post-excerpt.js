@@ -9,10 +9,12 @@ const PostLink = ({ post }) => (
         }}
     >
         <div className="blog-post" style={{ paddingBottom: '0.5rem' }}>
-            <h3>{post.frontmatter.title}</h3>
+            <Link to={post.frontmatter.path} style={{ textDecoration: 'none' }}>
+                <h3>{post.frontmatter.title}</h3>
+            </Link>
             <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: post.excerpt }}/>
         </div>
-        <Link to={post.frontmatter.path} style={{ textDecoration: 'none' }}>
+        <Link to={post.frontmatter.path} style={{ textDecoration: 'none', color: '#000' }}>
             Read more
         </Link>
     </div>

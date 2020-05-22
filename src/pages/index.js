@@ -20,7 +20,9 @@ const IndexPage = ({
           </div>
           <div className="blog-post-container">
             <div className="blog-post">
-              <h2>{edges[0].node.frontmatter.title}</h2>
+              <Link to={edges[0].node.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
+                <h2>{edges[0].node.frontmatter.title}</h2>
+              </Link>
               <h3>{edges[0].node.frontmatter.date}</h3>
               <div className="blog-post-content"
                   dangerouslySetInnerHTML={{ __html: edges[0].node.html }}/>
@@ -45,6 +47,7 @@ export const pageQuery = graphql`
         node {
           html
           frontmatter {
+            path
             title
             date(formatString: "DD MMMM, YYYY")
           }
