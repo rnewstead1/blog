@@ -14,7 +14,7 @@ gatsby develop
   - [x] Inline images
   - [ ] Fonts
 - [ ] layout of homepage
-- [ ] hosting
+- [x] hosting
 - [x] deployment
 - [ ] copy over old posts
 - [ ] make old posts on blogger redirect to new ones
