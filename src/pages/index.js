@@ -16,7 +16,7 @@ const IndexPage = ({
         <div className="left-panel" style={{ width: '65%' }}>
           <div style={{ marginBottom: '1rem' }}>
             <img src={pentlands} alt="Pentland Hills" />
-            <span>some stuff</span>
+            <span>Happiest in the mountains.</span>
           </div>
           <div className="blog-post-container">
             <div className="blog-post">
