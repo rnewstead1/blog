@@ -41,5 +41,4 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-twitter`,
   ],
-  pathPrefix: "/blog",
 }
