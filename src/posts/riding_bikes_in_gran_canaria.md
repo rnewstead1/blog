@@ -6,7 +6,7 @@ title: "Riding Bikes in Gran Canaria"
 
 ![Mountain biking](../images/riding-bikes-in-gran-canaria/mtb-gc.jpg)
 
-This was going to be a post about my trip to Gran Canaria at the end of February. I was meant to be running the marathon at TransGrancanaria but my knee operation meant that wasn't possible. I went on the trip anyway and enjoyed the race weekend cheering on some friends who were running.
+This was going to be a post about my trip to Gran Canaria at the end of February. I was meant to be running the marathon at Transgrancanaria but my knee operation meant that wasn't possible. I went on the trip anyway and enjoyed the race weekend cheering on some friends who were running.
 
 <!-- end -->
 
@@ -41,7 +41,7 @@ I was lucky to have some great mountain bike trails right from my doorstep that 
 
 On my last day of mountain biking I explored some new trails that were a bit too steep and technical for me. I fell hard on my elbow and ended up with a deep cut. Luckily it was towards the end of my ride, but gave a fright to the lady who was out walking her dog nearby. Her dog ran up to me and was jumping excitedly at me, while I held my bloody elbow in the air. I think she thought her dog had bitten me! It took a few weeks of removing bits of black sand from the cut when I was back home before it healed.
 
-I headed south for the [TransGrancanaria](https://www.transgrancanaria.net/) race weekend and cheered on some friends who were running. I hired another road bike (this time from [Free Motion](https://www.free-motion.com/) in Maspalomas) and cycled a big hilly loop on race day, passing one of the race checkpoints three times.
+I headed south for the [Transgrancanaria](https://www.transgrancanaria.net/) race weekend and cheered on some friends who were running. I hired another road bike (this time from [Free Motion](https://www.free-motion.com/) in Maspalomas) and cycled a big hilly loop on race day, passing one of the race checkpoints three times.
 
 ![Hilly loop](../images/riding-bikes-in-gran-canaria/tgc-loops.jpg)
 
