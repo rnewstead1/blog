@@ -10,7 +10,7 @@ The end of my 2019 running season didn't quite go to plan. After a month of litt
 
 <!-- end -->
 
-<div class="inline-image-left">
+<div class="inline-image-left" style="border: 2px solid orange">
     <img src="../images/a-plan-that-didnt-come-together/cancellation.png" alt="cancellation email"/>
 </div>
 

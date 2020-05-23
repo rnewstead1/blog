@@ -71,9 +71,7 @@ Views from our accommodation in Aultbea
 
 After a long chat with Adam the bike expert / owner I understood what the problem was with the back wheel and how to fix it. It took a lot of patience but I eventually managed to do so and we began the final morning without too much delay. It was wet from the start and the forecast was for it to get wetter. It wasn't the ideal end to our adventure but perhaps the most fitting for the north of Scotland (in July)! We set off amidst a cloud of midges onto some challenging technical paths.
 
-<div class="inline-image-left" style="width: 50%">
-    <img src="../images/highland-200/start-day-4.jpg" alt="Final day"/>
-</div>
+![Final day](../images/highland-200/start-day-4.jpg)
 
 There was so much water on the trail that it felt like riding through a river. I got a second back puncture  but this time changed the tube and got the wheel back on without any drama (except being eaten alive by midges). This first trail section took us longer than we'd anticipated but we finally reached the A832. Elaine crossed the road and set off onto another trail. Her route involved a big off-path section between trails that would be silly to attempt on a bike. I set off to go the long way round on the road to intercept her at the next road crossing on the A896. My "easy" ride here was 18 miles up and down hills in lashing rain and wind. I enjoyed being able to ride fast on the smooth surface but cars sped past me too close and too fast and I worried for my safety. I stopped at the gas station in Kinlochewe for a much-needed espresso before the final 6 miles into a headwind on the road to Torridon.
 

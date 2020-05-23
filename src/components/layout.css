@@ -628,13 +628,13 @@ pre tt:after {
 }
 
 .inline-image-left {
-  width: 30%;
+  width: 50%;
   float: left;
-  padding-right: 1rem;
+  margin-right: 1rem;
 }
 
 .inline-image-right {
-  width: 30%;
+  width: 50%;
   float: right;
-  padding-left: 1rem;
+  margin-left: 1rem;
 }

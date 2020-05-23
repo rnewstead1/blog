@@ -11,7 +11,7 @@ const IndexPage = ({
 }) => {
   return (
     <Layout>
-      <SEO title="Index" />
+      <SEO title="Home" />
       <div className="home-container" style={{ display: 'flex', justifyContent: 'space-between' }}>
         <div className="left-panel" style={{ width: '65%' }}>
           <div style={{ marginBottom: '1rem' }}>

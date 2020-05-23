@@ -13,10 +13,9 @@ gatsby develop
 - [ ] Styling
   - [x] Inline images
   - [ ] Fonts
-- [ ] layout of homepage
+- [x] layout of homepage
 - [x] hosting
 - [x] deployment
 - [ ] copy over old posts
 - [ ] make old posts on blogger redirect to new ones
-- [ ] blog post about Gran Canaria
-- [ ] Work out how to show video
+- [x] blog post about Gran Canaria
