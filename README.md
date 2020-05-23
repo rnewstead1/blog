@@ -1,6 +1,6 @@
 # Powderach Running blog
 
-Based on Gatsby default template. Deployed on github pages at https://rnewstead1.github.io/blog/
+Based on Gatsby default template. Deployed via github pages at http://www.powderach.com
 
 To run locally:
 
