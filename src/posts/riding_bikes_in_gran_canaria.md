@@ -10,7 +10,7 @@ This was going to be a post about my trip to Gran Canaria at the end of February
 
 <!-- end -->
 
-The world has changed dramatically since the end of February. I can't quite muster the energy to write in much detail about that past world. It feels like a lot longer ago than a few months. However looking back at the photos have cheered me up on this stormy Saturday, and helped me recall a great few weeks of training. It was before I was able to run post-operation, and I did a lot of biking, swimming, aqua-jogging and hiking. Since then my knee has recovered dramatically and I'm now running four times a week, but enjoying riding bikes a lot too. I'm still finding my way in this new covid-19 world, establishing new routines and exploring from my front door. One of the big lessons of the year for me so far is appreciating slowing down and not always rushing to the future or the next thing.
+The world has changed dramatically since the end of February. I can't quite muster the energy to write in much detail about that past world. It feels like a lot longer ago than a few months. However looking back at the photos have cheered me up on this stormy Saturday, and helped me recall a great few weeks of training. It was before I was able to run post-operation, so I biked, swam, aqua-jogged and hiked. Since then my knee has recovered a lot and I'm now running four times a week, but still enjoying riding my bike too. I'm still finding my way in this new covid-19 world, establishing new routines and exploring from my front door. One of the big lessons of the year for me so far is appreciating slowing down and not always looking to the future and rushing on to the next next adventure.
 
 ## Training when you can't run
 
@@ -31,15 +31,15 @@ After a morning's work I had a quick swim at lunch time (it had to be quick beca
 
 ![road biking](../images/riding-bikes-in-gran-canaria/bike-view.jpg)
 
-Most of the roads were smooth and empty, with lots of big climbs. I could feel myself getting stronger each time I rode! Occasionally I'd make a bad route choice: what I thought from Google maps was a proper road turned out to be a gravel track. One evening I had a real race to beat the darkness after wobbling precariously along dirt trails for miles on skinny road tyres.
+Most of the roads were smooth and empty, with lots of big climbs. I could feel myself getting stronger each time I rode! Occasionally I'd make a bad route choice: what I thought from Google maps was a proper road turned out to be a gravel track. One evening I narrowly beat the darkness home after wobbling precariously along dirt trails for miles on skinny road tyres.
 
 ![Hobbiton](../images/riding-bikes-in-gran-canaria/hobbit-land.jpg)
 
-I was lucky to have some great mountain bike trails right from my doorstep that weren't too technical. To begin with I was worried my knee wouldn't cope with downhill mountain biking, but my confidence (and strength) grew each day. My regular trail started with a 40 minute uphill slog in the sun, but it was worth it for the views and the downhill.
+I was lucky to have some great mountain bike trails right from my doorstep that weren't too technical. To begin with I was worried my knee wouldn't cope with downhill mountain biking, but my confidence (and strength) grew each day. My regular trail started with a 40 minute uphill slog in the sun. It was worth it for the views and the downhill.
 
 ![mountain biking on local trail](../images/riding-bikes-in-gran-canaria/mtb-2.jpg)
 
-On my last day of mountain biking I explored some new trails that were a bit too steep and technical for me. I fell hard on my elbow and ended up with a deep cut. Luckily it was towards the end of my ride, but gave a fright to the lady who was out walking her dog nearby. Her dog ran up to me and was jumping excitedly at me, while I held my bloody elbow in the air. I think she thought her dog had bitten me! It took a few weeks of removing bits of black sand from the cut when I was back home before the cut managed to heal.
+On my last day of mountain biking I explored some new trails that were a bit too steep and technical for me. I fell hard on my elbow and ended up with a deep cut. Luckily it was towards the end of my ride, but gave a fright to the lady who was out walking her dog nearby. Her dog ran up to me and was jumping excitedly at me, while I held my bloody elbow in the air. I think she thought her dog had bitten me! It took a few weeks of removing bits of black sand from the cut when I was back home before it healed.
 
 I headed south for the [TransGrancanaria](https://www.transgrancanaria.net/) race weekend and cheered on some friends who were running. I hired another road bike (this time from [Free Motion](https://www.free-motion.com/) in Maspalomas) and cycled a big hilly loop on race day, passing one of the race checkpoints three times.
 
