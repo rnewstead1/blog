@@ -638,3 +638,7 @@ pre tt:after {
   float: right;
   margin-left: 1rem;
 }
+
+.gatsby-resp-image-figcaption {
+  text-align: center;
+}
