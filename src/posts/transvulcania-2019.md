@@ -46,4 +46,4 @@ Some thank yous: firstly to Matt for his unwavering confidence in what I can do,
 
 ![Medal](../images/transvulcania-2019/medal.jpg)
 
-(... read part 1 (my buildup) - [here](https://powderach-running.blogspot.com/2019/05/transvulcania-2019-build-up.html))
+(... read part 1 (my buildup) - [here](./transvulcania-2019-the-build-up))
