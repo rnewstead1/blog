@@ -9,7 +9,6 @@ title: "Riding Bikes in Gran Canaria"
 This was going to be a post about my trip to Gran Canaria at the end of February. I was meant to be running the marathon at Transgrancanaria but my knee operation meant that wasn't possible. I went on the trip anyway and enjoyed the race weekend cheering on some friends who were running.
 
 <!-- end -->
-
 The world has changed dramatically since the end of February. I can't quite muster the energy to write in much detail about that past world. It feels like a lot longer ago than a few months. However looking back at the photos have cheered me up on this stormy Saturday, and helped me recall a great few weeks of training. It was before I was able to run post-operation, so I biked, swam, aqua-jogged and hiked. Since then my knee has recovered a lot and I'm now running four times a week, but still enjoying riding my bike too. I'm still finding my way in this new covid-19 world, establishing new routines and exploring from my front door. One of the big lessons of the year for me so far is appreciating slowing down and not always looking to the future and rushing on to the next adventure.
 
 ## Training when you can't run

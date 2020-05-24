@@ -9,7 +9,6 @@ title: "A plan that didn't come together"
 The end of my 2019 running season didn't quite go to plan. After a month of little running after Lavaredo I built back up slowly with the help of some great physio sessions with Kenny at [Space Clinics](https://spaceclinics.co.uk/). Matt carefully wrote me a training plan which we tweaked weekly depending on how my knee was recovering. At the beginning we didn't know if I'd be able to complete the training. But my knee slowly improved and I arrived in France ready to run the [Grand Trail des Templiers](https://www.festivaldestempliers.com/courses/templiers/) feeling fit and confident. I'd recce'd the route in August and was excited to run on the trails there.
 
 <!-- end -->
-
 <div class="inline-image-left" style="border: 2px solid orange">
     <img src="../images/a-plan-that-didnt-come-together/cancellation.png" alt="cancellation email"/>
 </div>

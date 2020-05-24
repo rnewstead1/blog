@@ -9,7 +9,6 @@ Between Christmas and New year I _almost_ recced the [North Downs Way 50](https:
 ![Start of the route](../images/recceing-the-ndw/ndw.jpg)
 
 <!-- end -->
-
 It took 4 trains to get us to Farnham, where the North Downs Way starts. It was dry, not too cold, and we were traveling light, excited to be free and alone after a family Christmas. Excited for another new adventure.
 
 We set off. Road, trail, road, trail. We didn't get lost till the second mile. We checked the map and went back to where we'd missed the sign. After 5 miles the trail was flooded. Water obscured the path as far as we could see. We checked the map again and found a way around on a road. We figured we'd done about a mile extra.
