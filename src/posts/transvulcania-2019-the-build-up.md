@@ -13,7 +13,6 @@ title: "Transvulcania 2019 - The build up"
 </div>
 
 I'd wanted to run this race since the first time I opened [Ian Corless' Running Beyond book](https://iancorless.org/runningbeyondbook/). Transvulcania is the first entry. The jagged volcanic ridges scared and inspired me in equal measure. After failing to convince Will that we should honeymoon on La Palma (it is a pain to get to) I put it out of my mind for a few years. But 2019 is the year of doing big scary races abroad. Transvulcania was first on the list. Running in Tenerife over Christmas has both given me confidence that it was possible, and scared me further. The Blue Trail route goes up higher, so neither the climb or the descent would be as long at Transvulcania, but over Christmas we'd split the route over multiple days. It was going to feel similar to if we'd run the first two days in one. I couldn't fathom this.
-
 <!-- end -->
 
 ![Race profile](../images/transvulcania-2019-the-build-up/trv-profile.png)
