@@ -7,7 +7,6 @@ title: "Arran Ultraventure"
 ![First sighting](../images/arran-ultraventure/first-sighting.jpg)
 
 Adventuring at Easter is one of my favourite things. It's a great time of year to be forced to take a long weekend, and this year the weather gods were smiling on us. Given that next time I run the WHW I want to do it in less than 3 days, I wanted a new running adventure this year. The [Arran Coastal Way](http://www.coastalway.co.uk/) is about 65 miles which seemed a good distance to run over a few days. I was worried it may lack variety but at least we wouldn't have to worry about getting lost - we just had to keep the sea on our right. Even Aisling and I, who had got lost (twice) on an out and back the previous weekend, couldn't go wrong. I gathered some adventure buddies to join the fun and to add some spice we decided to go up the biggest hill on the island on the first day. On Easter Saturday five of us set out early from Brodick and started up Goatfell. I say early, but there were already people coming down the trail as we went up, and it was already quite warm! I regretted wearing a long sleeve top and realised Eoín had probably been right about not needing waterproof trousers. We picked our way up to the summit with some scrambling after leaving the main path by accident. From the top we could see for miles and it was beautiful.
-
 <!-- end -->
 
 ![Top of Goatfell](../images/arran-ultraventure/goatfell-top.jpg)
