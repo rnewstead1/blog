@@ -2,6 +2,9 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
+import rssIcon from '../images/rss.png';
+import instagramIcon from '../images/instagram.png';
+
 const Header = ({ siteTitle }) => (
   <header
     style={{
@@ -27,11 +30,19 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <div className="top-nav" style={{ paddingTop: `1.45rem` }}>
-        <ul>
-          <li><Link to="/" style={{ color: `white`, textDecoration: `none`, }} >Home</Link></li>
-          <li><Link to="/all-posts" style={{ color: `white`, textDecoration: `none`, }} >All posts</Link></li>
-        </ul>
+      <div className="top-nav" style={{ paddingTop: `1.45rem`, display: 'flex', justifyContent: 'space-between' }}>
+        <div>
+          <ul>
+            <li><Link to="/" style={{ color: `white`, textDecoration: `none`, }}>Home</Link></li>
+            <li><Link to="/all-posts" style={{ color: `white`, textDecoration: `none`, }} >All posts</Link></li>
+          </ul>
+        </div>
+        <div>
+          <ul>
+            <li><Link to="/rss.xml" ><img src={rssIcon} alt="rss" width="30px" /></Link></li>
+            <li><a href="https://www.instagram.com/powderach"><img src={instagramIcon} alt="instagram" width="30px" /></a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </header>
