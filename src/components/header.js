@@ -2,7 +2,6 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-import rssIcon from '../images/rss.png';
 import instagramIcon from '../images/instagram.png';
 
 const Header = ({ siteTitle }) => (
@@ -39,7 +38,6 @@ const Header = ({ siteTitle }) => (
         </div>
         <div>
           <ul>
-            <li><Link to="/rss.xml" ><img src={rssIcon} alt="rss" width="30px" /></Link></li>
             <li><a href="https://www.instagram.com/powderach"><img src={instagramIcon} alt="instagram" width="30px" /></a></li>
           </ul>
         </div>
