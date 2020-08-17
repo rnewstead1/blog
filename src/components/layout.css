@@ -642,3 +642,8 @@ pre tt:after {
 .gatsby-resp-image-figcaption {
   text-align: center;
 }
+
+.cv-section {
+  border-bottom: 1px dotted gray;
+  margin-bottom: 1rem;
+}
