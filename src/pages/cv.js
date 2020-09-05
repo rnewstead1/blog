@@ -13,7 +13,7 @@ const CvPage = ({}) => {
         }}>
             <div>
                 <h1>Rachel Normand</h1>
-                <p><i>Experienced software engineer and leader, focused on building great products and high performing teams, and fostering a remote-first culture.</i></p>
+                <p><i>Experienced software engineer and leader focused on building great products and high performing teams, as well as fostering a remote-first culture.</i></p>
             </div>
 
             <div className="cv-section">
