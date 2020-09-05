@@ -1,4 +1,236 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Powderach.com RSS Feed]]></title><description><![CDATA[Happiest in the mountains]]></description><link>https://powderach.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Aug 2020 19:36:40 GMT</lastBuildDate><item><title><![CDATA[Water of Leith]]></title><description><![CDATA[Find another route]]></description><link>https://powderach.com/posts/water-of-leith</link><guid isPermaLink="false">https://powderach.com/posts/water-of-leith</guid><pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Find another route&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Powderach.com RSS Feed]]></title><description><![CDATA[Happiest in the mountains]]></description><link>https://powderach.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Sep 2020 11:25:14 GMT</lastBuildDate><item><title><![CDATA[The Three Lochs Way]]></title><description><![CDATA[The Three Lochs Way is a 34 mile marked trail from Balloch to Inveruglas, both on Loch Lomond, via the Gareloch and Loch Long. I'd run parts of it before as Will's parents live on the Gareloch near Helensburgh, including a memorable run over the last twenty miles where I ended up getting totally lost trying to get back to Arrochar afterwards, and ended up running along the A82. I liked the idea of running the whole trail, both for the satisfaction of running something end to end, and to see how my knee would cope with the mileage. I also hoped it would work out that I would finish in good time to drive down the loch to cheer John Kelly on as he rode through Inverbeg on his Grand Round attempt.]]></description><link>https://powderach.com/posts/three-lochs-way</link><guid isPermaLink="false">https://powderach.com/posts/three-lochs-way</guid><pubDate>Sat, 05 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c33d342d055532eac2e639b06a84946d/93719/route_map.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAaNFpcxo0//EABwQAAIBBQEAAAAAAAAAAAAAAAABAgMREiExMv/aAAgBAQABBQLIiyp7skPktP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxAAAwEAAAAAAAAAAAAAAAAAABAhAf/aAAgBAQAGPwJaQq//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhUUFxsf/aAAgBAQABPyFslTI3NPmAfEZq6itJ/9oADAMBAAIAAwAAABDHL//EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAgBAwEBPxBMf//EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAgBAgEBPxCaj//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/ECybDy7+TYeNYy6xh8TjEHx3MNqWr6MKlWstZ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;route map&quot;
+        title=&quot;route map&quot;
+        src=&quot;/static/c33d342d055532eac2e639b06a84946d/b4294/route_map.jpg&quot;
+        srcset=&quot;/static/c33d342d055532eac2e639b06a84946d/75985/route_map.jpg 150w,
+/static/c33d342d055532eac2e639b06a84946d/f93b5/route_map.jpg 300w,
+/static/c33d342d055532eac2e639b06a84946d/b4294/route_map.jpg 600w,
+/static/c33d342d055532eac2e639b06a84946d/8e1fc/route_map.jpg 900w,
+/static/c33d342d055532eac2e639b06a84946d/e5166/route_map.jpg 1200w,
+/static/c33d342d055532eac2e639b06a84946d/93719/route_map.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://threelochsway.co.uk/&quot;&gt;Three Lochs Way&lt;/a&gt; is a 34 mile marked trail from Balloch to Inveruglas, both on Loch Lomond, via the Gareloch and Loch Long. I&apos;d run parts of it before as Will&apos;s parents live on the Gareloch near Helensburgh, including a memorable run over the last twenty miles where I ended up getting totally lost trying to get back to Arrochar afterwards, and ended up running along the A82. I liked the idea of running the whole trail, both for the satisfaction of running something end to end, and to see how my knee would cope with the mileage. I also hoped it would work out that I would finish in good time to drive down the loch to cheer John Kelly on as he rode through Inverbeg on his Grand Round attempt.&lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4fa72c6bc8a23b25f5f231c2391b1575/93719/loch_lomond_start.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAWsjchWDj//EABsQAAICAwEAAAAAAAAAAAAAAAACAQQDERMU/9oACAEBAAEFAuij5VQ9aD2SbEubU//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAaEAABBQEAAAAAAAAAAAAAAAAAAQIQITIR/9oACAEBAAY/AtFujjULQwf/xAAaEAEAAwADAAAAAAAAAAAAAAABABEhEFGB/9oACAEBAAE/IccEAKCV9vkAHAVUErhX/9oADAMBAAIAAwAAABAwD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxC4h//EAB0QAQADAAEFAAAAAAAAAAAAAAEAESExQVFhcYH/2gAIAQEAAT8QVKGNDTtXanyKEvzEXrQTcvvcKGTl9R5my671n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;loch lomond from Inveruglas at the start&quot;
+        title=&quot;loch lomond from Inveruglas at the start&quot;
+        src=&quot;/static/4fa72c6bc8a23b25f5f231c2391b1575/b4294/loch_lomond_start.jpg&quot;
+        srcset=&quot;/static/4fa72c6bc8a23b25f5f231c2391b1575/75985/loch_lomond_start.jpg 150w,
+/static/4fa72c6bc8a23b25f5f231c2391b1575/f93b5/loch_lomond_start.jpg 300w,
+/static/4fa72c6bc8a23b25f5f231c2391b1575/b4294/loch_lomond_start.jpg 600w,
+/static/4fa72c6bc8a23b25f5f231c2391b1575/8e1fc/loch_lomond_start.jpg 900w,
+/static/4fa72c6bc8a23b25f5f231c2391b1575/e5166/loch_lomond_start.jpg 1200w,
+/static/4fa72c6bc8a23b25f5f231c2391b1575/93719/loch_lomond_start.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After a leisurely breakfast at my in-laws, I drove to Inveruglas, then rode 20 miles down the A82 on the west side of Loch Lomond on my single speed bike. Luckily it was fairly flat and there weren&apos;t too many cars, but I arrived in Balloch already feeling tired and sweaty. I was carrying a litre and a half of water and I hoped this would be enough. Here I made my first mistake as I should have taken a short rest and rehydrated so that I started the run in a calm mindset. But I got flustered by all the people hanging around at Balloch visitor centre and set off promptly, my feet still numb from the cycle. Ten minutes later I had to stop to re-lace my shoes and catch my breath.&lt;/p&gt;
+&lt;p&gt;Away from the crowds at Loch Lomond Shores I began the first climb out of town and was delighted to run into Karen who was finishing her morning run. She ran up the hill with me and I immediately felt better with someone to chat to. From the top of the hill there were great views out to Loch Lomond and fun forest trails. The descent into Helensburgh was excellent fun, very twisting and fast. Unfortunately my knee felt sore and my pack heavy and bouncing around. At this early stage I was already questioning why I was doing it.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cb654a56219e1d7e295890afe6f5f59b/93719/looking_back_to_loch_lomond.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAeyltSiTZP/EABgQAQEAAwAAAAAAAAAAAAAAAAEAESAi/9oACAEBAAEFAhJxcaf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BjL//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwGlv//EABcQAQADAAAAAAAAAAAAAAAAAAAgMTL/2gAIAQEABj8CW1D/xAAbEAACAgMBAAAAAAAAAAAAAAAAARExIUFRcf/aAAgBAQABPyFRWiexPAXrHO2ZP//aAAwDAQACAAMAAAAQwA//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBl/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAECAQE/ENVT/8QAHBABAAICAwEAAAAAAAAAAAAAAQARIVExcYHB/9oACAEBAAE/EKJZ7OWJ2xt+pMclm5eUiaWM/wD/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;loch lomond&quot;
+        title=&quot;loch lomond&quot;
+        src=&quot;/static/cb654a56219e1d7e295890afe6f5f59b/b4294/looking_back_to_loch_lomond.jpg&quot;
+        srcset=&quot;/static/cb654a56219e1d7e295890afe6f5f59b/75985/looking_back_to_loch_lomond.jpg 150w,
+/static/cb654a56219e1d7e295890afe6f5f59b/f93b5/looking_back_to_loch_lomond.jpg 300w,
+/static/cb654a56219e1d7e295890afe6f5f59b/b4294/looking_back_to_loch_lomond.jpg 600w,
+/static/cb654a56219e1d7e295890afe6f5f59b/8e1fc/looking_back_to_loch_lomond.jpg 900w,
+/static/cb654a56219e1d7e295890afe6f5f59b/e5166/looking_back_to_loch_lomond.jpg 1200w,
+/static/cb654a56219e1d7e295890afe6f5f59b/93719/looking_back_to_loch_lomond.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Running into Helensburgh I weaved amongst the school children and wondered if I should buy some more water. I decided against it. I left the shore of the Gareloch and turned up through the town, heading up to the &lt;a href=&quot;https://www.nts.org.uk/visit/places/the-hill-house&quot;&gt;Hill House&lt;/a&gt;, built by Charles Rennie Mackintosh. Here I was back on familiar trails and enjoyed the run down to the old Glen Fruin road. This was now the section I&apos;d been dreading - road miles in the midday sun and heading uphill. I wasn&apos;t moving very fast and it seemed to take forever. I was relieved to finally turn off the road but by this point I was rationing my remaining water. The next section was on military road and felt a bit eerie. The road was very straight and quiet, with signs on either side warning you not to touch suspicious objects. I could see down to the base at Faslane and was wary of taking any photos around here in case someone suddenly appeared to stop me!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/da6fafd6d8a4596d40ac11d52e475b91/93719/glen_fruin.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2aU6dxNK/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAERAgMQEiL/2gAIAQEAAQUC2tMihnAniD//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BjL//xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIS/9oACAECAQE/AVZtn//EABkQAAIDAQAAAAAAAAAAAAAAAAABIDEyUf/aAAgBAQAGPwLhaNKH/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAERIUExYXH/2gAIAQEAAT8hbXISVQ9CULUMw9saTp//2gAMAwEAAgADAAAAEGcP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QlD//xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8QVyH/xAAeEAEBAAIABwAAAAAAAAAAAAABEQAxIUFRYYGx4f/aAAgBAQABPxCuUlukPWUhY0qvlwQt9HjiCbnJyCfLH1R2z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Glen Fruin&quot;
+        title=&quot;Glen Fruin&quot;
+        src=&quot;/static/da6fafd6d8a4596d40ac11d52e475b91/b4294/glen_fruin.jpg&quot;
+        srcset=&quot;/static/da6fafd6d8a4596d40ac11d52e475b91/75985/glen_fruin.jpg 150w,
+/static/da6fafd6d8a4596d40ac11d52e475b91/f93b5/glen_fruin.jpg 300w,
+/static/da6fafd6d8a4596d40ac11d52e475b91/b4294/glen_fruin.jpg 600w,
+/static/da6fafd6d8a4596d40ac11d52e475b91/8e1fc/glen_fruin.jpg 900w,
+/static/da6fafd6d8a4596d40ac11d52e475b91/e5166/glen_fruin.jpg 1200w,
+/static/da6fafd6d8a4596d40ac11d52e475b91/93719/glen_fruin.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;At Garelochhead the road became trail and headed up again. I considered detouring to Garelochhead to get water, but it was over a mile away so didn&apos;t seem worth it. There were a few stream crossings and I doused myself in water (but didn&apos;t dare drink any). It helped cool me down a bit. This section was the most picturesque, with great views out across Loch Long with the Arrochar Alps rising behind to the north. But by now all I could think about was water. I felt so tired and didn&apos;t want to run too fast because it made me feel more thirsty, so I took frequent walking breaks. Then I got annoyed at myself for not moving fast enough. I was also worried that by the time I eventually found a shop it would be so late it was shut!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/32f7bd7d1b8570b3e8bf4319c4e881ed/93719/loch_long.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHRRgsSokK//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACBBED/9oACAEBAAEFAjTRPTQx0W72Fkjdn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/Aar/xAAaEAACAgMAAAAAAAAAAAAAAAABEAARISIz/9oACAEBAAY/AtbM5vBX/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAERIVExcaH/2gAIAQEAAT8hoRuTAkt6x2TryhHrCH334f/aAAwDAQACAAMAAAAQ/B//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCI/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QhD//xAAdEAEAAgICAwAAAAAAAAAAAAABABFRcSGRYYGh/9oACAEBAAE/EKV4wL6yu3MVQ6iZNAg9EtaQqCldi+OpZ0mo/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Loch Long&quot;
+        title=&quot;Loch Long&quot;
+        src=&quot;/static/32f7bd7d1b8570b3e8bf4319c4e881ed/b4294/loch_long.jpg&quot;
+        srcset=&quot;/static/32f7bd7d1b8570b3e8bf4319c4e881ed/75985/loch_long.jpg 150w,
+/static/32f7bd7d1b8570b3e8bf4319c4e881ed/f93b5/loch_long.jpg 300w,
+/static/32f7bd7d1b8570b3e8bf4319c4e881ed/b4294/loch_long.jpg 600w,
+/static/32f7bd7d1b8570b3e8bf4319c4e881ed/8e1fc/loch_long.jpg 900w,
+/static/32f7bd7d1b8570b3e8bf4319c4e881ed/e5166/loch_long.jpg 1200w,
+/static/32f7bd7d1b8570b3e8bf4319c4e881ed/93719/loch_long.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00f8b71966fb19d1321588119150ce4a/93719/path.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/2gAMAwEAAhADEAAAAYfzNqNBAL//xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIDERMh/9oACAEBAAEFAjJVjatDtD2cyOx//8QAFhEBAQEAAAAAAAAAAAAAAAAAABIB/9oACAEDAQE/AZTj/8QAFhEBAQEAAAAAAAAAAAAAAAAAABMC/9oACAECAQE/AaK6f//EABkQAAIDAQAAAAAAAAAAAAAAAAAhAQIRIP/aAAgBAQAGPwJmyKnH/8QAGhABAQEBAAMAAAAAAAAAAAAAAQARMSFBcf/aAAgBAQABPyHvGyCpO30/YiwCS54nkb//2gAMAwEAAgADAAAAEEc//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAFRYf/aAAgBAwEBPxCLMX//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxCbVI1P/8QAGxABAQACAwEAAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QYgF7mG0Hg1V8y4gdBVytJs3kk2Jye4zdp9z/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;path&quot;
+        title=&quot;path&quot;
+        src=&quot;/static/00f8b71966fb19d1321588119150ce4a/b4294/path.jpg&quot;
+        srcset=&quot;/static/00f8b71966fb19d1321588119150ce4a/75985/path.jpg 150w,
+/static/00f8b71966fb19d1321588119150ce4a/f93b5/path.jpg 300w,
+/static/00f8b71966fb19d1321588119150ce4a/b4294/path.jpg 600w,
+/static/00f8b71966fb19d1321588119150ce4a/8e1fc/path.jpg 900w,
+/static/00f8b71966fb19d1321588119150ce4a/e5166/path.jpg 1200w,
+/static/00f8b71966fb19d1321588119150ce4a/93719/path.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally at mile 27 I descended into Tarbet and was overjoyed to find a small shop. I stumbled towards the entrance and was firmly stopped and told I needed to put on a mask. My hands were shaking as I found one in my bag. I&apos;d been so single track focused on getting water I&apos;d forgotten about a global pandemic. I bought a litre of water and a bottle of coke, and drank half the water and most of the coke straight away. Feeling a hundred times better I followed the trail left through the rail station and into the woods towards Arrochar at the head of Loch Long. The last time I&apos;d run this section there had been a diversion back onto the road, so I was pleased that the official route stayed on trail high in the woods. The path then turned north and headed back towards Loch Lomond, with the Arrochar Alps visible to the west. There were lots of small rises and I walked a lot of this section.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e53bf84c86ce83ca4e1251c2271e9d8/93719/arrochar_alps.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABtSzpTEWkf//EABoQAQABBQAAAAAAAAAAAAAAAAEEAAIDECH/2gAIAQEAAQUCJOOmVaDK7v8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABgQAAIDAAAAAAAAAAAAAAAAAAABICEx/9oACAEBAAY/AjSlD//EABoQAQEAAgMAAAAAAAAAAAAAAAEAESFRYfH/2gAIAQEAAT8h9M8MTjFuZE7hlLV//9oADAMBAAIAAwAAABCzL//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxA2n//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFBMVFhgf/aAAgBAQABPxB2Bb7LUKFrS8T7QmCz3m0Rzn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;arrochar alps&quot;
+        title=&quot;arrochar alps&quot;
+        src=&quot;/static/0e53bf84c86ce83ca4e1251c2271e9d8/b4294/arrochar_alps.jpg&quot;
+        srcset=&quot;/static/0e53bf84c86ce83ca4e1251c2271e9d8/75985/arrochar_alps.jpg 150w,
+/static/0e53bf84c86ce83ca4e1251c2271e9d8/f93b5/arrochar_alps.jpg 300w,
+/static/0e53bf84c86ce83ca4e1251c2271e9d8/b4294/arrochar_alps.jpg 600w,
+/static/0e53bf84c86ce83ca4e1251c2271e9d8/8e1fc/arrochar_alps.jpg 900w,
+/static/0e53bf84c86ce83ca4e1251c2271e9d8/e5166/arrochar_alps.jpg 1200w,
+/static/0e53bf84c86ce83ca4e1251c2271e9d8/93719/arrochar_alps.jpg 4000w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Rejoining a small road I knew it was all downhill to Loch Lomond and found some extra energy for a few faster miles at the end. I dropped down to the side of the loch and wound along the side of the road until I was back at the car. I was far too early to get to see John and made a plan to drive back out once I&apos;d showered and eaten. However the second I sat down I could barely keep my eyes open! My longest run of the year had certainly taken a lot out of me. In the event John didn&apos;t reach Inverbeg until the early hours of the next morning, and had to cycle up to Fort William in a storm. I was glad to be safely tucked up in bed!&lt;/p&gt;
+&lt;p&gt;The Three Lochs Way was a fun trail to run and I&apos;m keen to try it on a mountain bike next! I was pleased with how my body held up, but found the long day very hard work. And next time I&apos;ll definitely carry more water which will make the experience lots more enjoyable!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Water of Leith]]></title><description><![CDATA[Find another route]]></description><link>https://powderach.com/posts/water-of-leith</link><guid isPermaLink="false">https://powderach.com/posts/water-of-leith</guid><pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Find another route&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
