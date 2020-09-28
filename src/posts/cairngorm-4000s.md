@@ -23,9 +23,9 @@ The ascent of Cairn Toul was also without a path and was super steep. We followe
 
 ![Plateau](../images/cairngorm-4000s/plateau.jpg)
 
-From the summit of Cairn Toul we followed the plateau around to the next two Munros: Sgor an Lochain Uaine and Braeriach. Braeriach still looked like a very long way away. However it was easy running, the views were stunning and weather was great so we had a fine time. The wind picked up as we reached the last summit, but we were glad as it meant the midges kept away. From Braeriach we descended back to the Lairig Ghru and a final climb to the Charlemagne Gap. This was a fun scramble and we passed a lot of people who were also making their way down at the end of the day, and cheered us on.
+From the summit of Cairn Toul we followed the plateau around to the next two Munros: Sgor an Lochain Uaine and Braeriach. Braeriach still looked like a very long way away. However it was easy running, the views were stunning and weather was great so we had a fine time. The wind picked up as we reached the last summit, but we were glad as it meant the midges kept away. From Braeriach we descended back to the Lairig Ghru and a final climb to the Charlamain Gap. This was a fun scramble and we passed a lot of people who were also making their way down at the end of the day, and cheered us on.
 
-![Charlemagne Gap](../images/cairngorm-4000s/charlemagne_gap.jpg)
+![Charlamain Gap](../images/cairngorm-4000s/charlemagne_gap.jpg)
 
-Emerging from the Charlemagne Gap we could see over to Loch Morlich in the distance. The last few miles seemed to stretch for a long time and we were both super tired by the time we eventually reached the van. It was a good tired, mingled with the satisfaction of an excellent day in the hills. We celebrated by ordering a takeaway pizza and eating it at Loch Morlich. Of course, being summer in Scotland, it was too midgey to sit down to enjoy it properly!
+Emerging from the Charlamain Gap we could see over to Loch Morlich in the distance. The last few miles seemed to stretch for a long time and we were both super tired by the time we eventually reached the van. It was a good tired, mingled with the satisfaction of an excellent day in the hills. We celebrated by ordering a takeaway pizza and eating it at Loch Morlich. Of course, being summer in Scotland, it was too midgey to sit down to enjoy it properly!
 
