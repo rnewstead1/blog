@@ -24,12 +24,6 @@ const CvPage = ({}) => {
                     I've helped to build a remote-first culture through mentoring and coaching individuals and teams.
                     I'm happiest helping teams work together and building great products.
                 </p>
-                <ul style={{listStyle: 'none'}}>
-                    <li><i>Programming languages:</i> Node.js, Java, Clojure, Scala</li>
-                    <li><i>Database technologies:</i> Mongodb, Postgres, Solr, Cassandra</li>
-                    <li><i>Other:</i> SAML, OpenID Connect, Docker, Kubernetes</li>
-                    <li><i>Methodologies:</i> Agile, Test Driven Development, pair programming, microservices</li>
-                </ul>
             </div>
 
             <div className="cv-section">
@@ -37,21 +31,25 @@ const CvPage = ({}) => {
                 <ul style={{listStyle: 'none'}}>
                     <li>
                         <h3>Principal Engineer, Tes Global</h3>
-                        <p><i>Jan 2020 - present</i></p>
-                        <p>I lead remote-first teams of software engineers building products for schools to recruit teachers.
-                            A large part of my job is mentoring and enabling individuals to be more effective.
-                            I also focus on helping teams work better together across multiple locations and timezones.
-                            We build services that look after high-risk and special category data.
-                            We consider risk in everything we do and ensure necessary security measures are in place.
-                            We take a lean approach to product development in order to get products in front of users quickly.
-                        </p>
+                        <p><i>Sept 2019 - Jan 2021</i></p>
+                        <p>I lead remote-first teams of software engineers building products to help schools recruit teachers. We build full-stack microservices in Nodejs and React across a range of products that help teachers apply for jobs and schools find the right teachers.</p>
+                        <p>My job includes:</p>
+                        <ul>
+                            <li>mentoring and helping individuals to be more effective through pairing and coaching</li>
+                            <li>helping teams work better together across multiple locations and timezones</li>
+                            <li>collaborating with product owners to plan and specify work and advocating a lean approach to product development to get products in front of users quickly</li>
+                            <li>working with high-risk and special category and considering risk in everything we do</li>
+                            <li>designing and implementing scalable microservices</li>
+                            <li>working with other Principal Engineers to lead technology choices and share ways of working</li>
+                            <li>helping to define an engineering career ladder for the engineering team</li>
+                            <li>organising technical demos to the business</li>
+                            <li>co-hosting an openspace across engineering teams and multiple timezones</li>
+                        </ul>
                     </li>
                     <li>
-                        <h3>Senior Engineer, Tes Global</h3>
-                        <p><i>Feb 2016 - Jan 2020</i></p>
-                        <p>Building full stack microservices in Nodejs to help teachers and schools.
-                            I worked on products to support teachers applying for jobs online and for schools to manage applications.
-                        </p>
+                        <h3>Senior Software Engineer, Tes Global</h3>
+                        <p><i>Feb 2016 - Sept 2019</i></p>
+                        <p>Introduced online job application forms for teachers, and an ATS (Application Tracking System) for schools to manage applications using Nodejs microservices. I worked on several small teams, latterly taking a leading role to define and prioritise work with a Product Manager, and training new joiners.</p>
                     </li>
                     <li>
                         <h3>Consultant, Thoughtworks</h3>
@@ -128,6 +126,15 @@ const CvPage = ({}) => {
                             </li>
                         </ul>
                     </li>
+                </ul>
+            </div>
+
+            <div className="cv-section">
+                <ul style={{listStyle: 'none'}}>
+                    <li><i>Programming languages:</i> Node.js, Java, Clojure, Scala</li>
+                    <li><i>Database technologies:</i> Mongodb, Postgres, Solr</li>
+                    <li><i>Other:</i> SAML, OpenID Connect, Docker, Kubernetes</li>
+                    <li><i>Methodologies:</i> Agile, Test Driven Development, pair programming, microservices</li>
                 </ul>
             </div>
 

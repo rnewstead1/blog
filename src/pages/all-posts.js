@@ -5,7 +5,7 @@ import PostExcerpt from "../components/post-excerpt"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const CURRENT_YEAR = '2020';
+const CURRENT_YEAR = '2021';
 
 const AllPostsPage = ({
   data: {

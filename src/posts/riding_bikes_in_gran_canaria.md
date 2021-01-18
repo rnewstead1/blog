@@ -44,7 +44,7 @@ I headed south for the [Transgrancanaria](https://www.transgrancanaria.net/) rac
 
 ![Hilly loop](../images/riding-bikes-in-gran-canaria/tgc-loops.jpg)
 
-I was lucky to catch someone I knew on each loop past the checkpoint, although I missed seeing Meryl, my roommate for the weekend. She won the 30km race and was through much so quickly I hadn't arrived yet! Another friend Katie had a great race in the marathon, finishing 5th amongst a very competitive Spanish field.
+I was lucky to catch someone I knew on each loop past the checkpoint, although I missed seeing Meryl, my roommate for the weekend. She won the 30km race and was through so quickly I hadn't arrived yet! Another friend Katie had a great race in the marathon, finishing 5th amongst a very competitive Spanish field.
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 1rem;">
     <div style="width: 45%">
