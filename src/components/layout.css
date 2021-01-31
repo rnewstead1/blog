@@ -647,3 +647,32 @@ pre tt:after {
   border-bottom: 1px dotted gray;
   margin-bottom: 1rem;
 }
+
+.home-container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.left-panel {
+  width: 85%;
+}
+
+.right-panel {
+  width: 30%;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 414px) {
+  .home-container {
+    flex-direction: column;
+  }
+
+  .left-panel {
+    width: 100%;
+  }
+
+  .right-panel {
+    width: 100%;
+  }
+}

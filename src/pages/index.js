@@ -13,9 +13,23 @@ const IndexPage = ({
   return (
     <Layout>
       <SEO title="Home" />
-      <div className="home-container" style={{ display: 'flex', justifyContent: 'space-between' }}>
-        <div className="left-panel" style={{ width: '65%' }}>
-          <div style={{ marginBottom: '1rem' }}>
+      <div className="home-container">
+        <div className="left-panel">
+          <div className="blog-post-container">
+            <div className="blog-post">
+              <Link to={LatestPost.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
+                <h2>{LatestPost.frontmatter.title}</h2>
+              </Link>
+              <h3>{LatestPost.frontmatter.date}</h3>
+              <div className="blog-post-content"
+                  dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
+            </div>
+          </div>
+          <Link to="/all-posts">See all running posts</Link>
+          <p>I'm moving my blog here. For older posts go <a href="https://powderach-running.blogspot.com/">here</a>.</p>
+        </div>
+        <div className="right-panel">
+        <div style={{ marginBottom: '1rem' }}>
             <img src={pentlands} alt="Pentland Hills" />
             <div style={{ marginBottom: '1rem', width: '80%', marginLeft: 'auto', marginRight: 'auto', padding: '1rem' }}>
               <i>Hill repeats & recover, <a href="https://linktr.ee/runwildandbepoetry" style={{ textDecoration: 'none', color: '#000' }}>Sydney Zester</a></i><br/><br/>
@@ -29,23 +43,8 @@ const IndexPage = ({
                 i think it’s best to do both.<br/>
               </div>
             </div>
-            <hr />
-            <p>I'm moving my blog here. For older posts go <a href="https://powderach-running.blogspot.com/">here</a>.</p>
           </div>
-          <div className="blog-post-container">
-            <div className="blog-post">
-              <Link to={LatestPost.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
-                <h2>{LatestPost.frontmatter.title}</h2>
-              </Link>
-              <h3>{LatestPost.frontmatter.date}</h3>
-              <div className="blog-post-content"
-                  dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
-            </div>
-          </div>
-          <Link to="/all-posts">See all running posts</Link>
-        </div>
-        <div className="right-panel" style={{ width: '30%' }}>
-          <a class="twitter-timeline" href="https://twitter.com/powderach?ref_src=twsrc%5Etfw" data-height="1000">Latest tweets</a>
+          <a className="twitter-timeline" href="https://twitter.com/powderach?ref_src=twsrc%5Etfw" data-height="1000">Latest tweets</a>
         </div>
       </div>
     </Layout>
