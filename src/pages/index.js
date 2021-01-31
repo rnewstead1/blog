@@ -9,6 +9,7 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
+  const LatestPost = edges[0].node;
   return (
     <Layout>
       <SEO title="Home" />
@@ -33,15 +34,15 @@ const IndexPage = ({
           </div>
           <div className="blog-post-container">
             <div className="blog-post">
-              <Link to={edges[0].node.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
-                <h2>{edges[0].node.frontmatter.title}</h2>
+              <Link to={LatestPost.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
+                <h2>{LatestPost.frontmatter.title}</h2>
               </Link>
-              <h3>{edges[0].node.frontmatter.date}</h3>
+              <h3>{LatestPost.frontmatter.date}</h3>
               <div className="blog-post-content"
-                  dangerouslySetInnerHTML={{ __html: edges[0].node.html }}/>
+                  dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
             </div>
           </div>
-          <Link to="/all-posts">See all posts</Link>
+          <Link to="/all-posts">See all running posts</Link>
         </div>
         <div className="right-panel" style={{ width: '30%' }}>
           <a class="twitter-timeline" href="https://twitter.com/powderach?ref_src=twsrc%5Etfw" data-height="1000">Latest tweets</a>
@@ -55,7 +56,17 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, limit: 1) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] },
+      filter: {
+        frontmatter: {
+          tags: {
+            nin: "tech"
+          }
+        }
+      }
+      limit: 1
+      ) {
       edges {
         node {
           html
@@ -69,5 +80,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
-console.log(pageQuery)

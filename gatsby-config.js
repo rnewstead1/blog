@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Powderach Running',
+    title: 'powderach',
     description: 'Happiest in the mountains',
     author: '@powderach',
     siteUrl: 'https://powderach.com',

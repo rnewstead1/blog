@@ -22,7 +22,7 @@ const AllPostsPage = ({
     
   return (
     <Layout>
-      <SEO title="All posts" />
+      <SEO title="Running posts" />
       <div>
         <div>{RecentPosts}</div>
       </div>
@@ -38,7 +38,15 @@ export default AllPostsPage
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: {
+        frontmatter: {
+          tags: {
+            nin: "tech"
+          }
+        }
+      } ) {
       edges {
         node {
           id
@@ -47,6 +55,7 @@ export const pageQuery = graphql`
             date(formatString: "MMM YYYY")
             path
             title
+            tags
           }
         }
       }
