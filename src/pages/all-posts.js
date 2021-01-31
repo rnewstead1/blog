@@ -5,19 +5,17 @@ import PostExcerpt from "../components/post-excerpt"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const CURRENT_YEAR = '2021';
-
 const AllPostsPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
 }) => {
   const RecentPosts = edges
-    .filter(edge => edge.node.frontmatter.date.includes(CURRENT_YEAR))
+    .slice(0, 5)
     .map(edge => <PostExcerpt key={edge.node.id} post={edge.node} />)
   
   const OlderPosts = edges
-    .filter(edge => !edge.node.frontmatter.date.includes(CURRENT_YEAR))
+    .slice(5)
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
     
   return (

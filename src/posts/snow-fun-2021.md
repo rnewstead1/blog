@@ -7,6 +7,7 @@ title: "Snow fun in 2021"
 Some photos from running and sliding in the snowy Pentlands over the last few weeks...
 
 ![Snow joy](../images/snow-fun-2021/snow-joy.jpg "Full of joy at the first snowfall")
+<!-- end -->
 
 ![Running in snow](../images/snow-fun-2021/run-away.jpg)
 
