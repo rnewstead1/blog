@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Powderach.com RSS Feed]]></title><description><![CDATA[Happiest in the mountains]]></description><link>https://powderach.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Mar 2021 18:24:58 GMT</lastBuildDate><item><title><![CDATA[On motivation]]></title><description><![CDATA[it's just a run  Lately I haven't wanted to run.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Powderach.com RSS Feed]]></title><description><![CDATA[Happiest in the mountains]]></description><link>https://powderach.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Mar 2021 19:12:53 GMT</lastBuildDate><item><title><![CDATA[On motivation]]></title><description><![CDATA[it's just a run  Lately I haven't wanted to run.
 First I blamed the weather.
 January and February were cold, windy, and dark.
 Melting snow made the low paths tough going.
@@ -169,17 +169,17 @@ And I&apos;m going to keep reminding myself:&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
     &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Grateful I can run to the hills and the beach from my door&lt;/p&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Values workshop]]></title><description><![CDATA[I recently ran a personal values workshop for some teammates which was a fun and valuable exercise.
+  &lt;/figure&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Values workshop]]></title><description><![CDATA[Last year I ran a personal values workshop for some teammates which was a fun and valuable exercise.
 There are lots of suggestions on how to run a workshop like this on the internet.
 I picked one that would work well remotely.
 Everyone created their own values board individually, and we had time at the beginning and end for discussion to make the sesion more interactive.
-The workshop fit into a one hour session but some of the discussions felt a little rushed.
-I encouraged people to take extra time to reflect on the workshop afterwards.]]></description><link>https://powderach.com/posts/values-workshop</link><guid isPermaLink="false">https://powderach.com/posts/values-workshop</guid><pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I recently ran a personal values workshop for some teammates which was a fun and valuable exercise.
+The workshop fit into a one hour session but some of the discussions felt a little rushed, so longer would probably be better.
+I encouraged people to take extra time to reflect afterwards.]]></description><link>https://powderach.com/posts/values-workshop</link><guid isPermaLink="false">https://powderach.com/posts/values-workshop</guid><pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Last year I ran a personal values workshop for some teammates which was a fun and valuable exercise.
 There are lots of suggestions on how to run a workshop like this on the internet.
 I picked one that would work well remotely.
 Everyone created their own values board individually, and we had time at the beginning and end for discussion to make the sesion more interactive.
-The workshop fit into a one hour session but some of the discussions felt a little rushed.
-I encouraged people to take extra time to reflect on the workshop afterwards.&lt;/p&gt;
+The workshop fit into a one hour session but some of the discussions felt a little rushed, so longer would probably be better.
+I encouraged people to take extra time to reflect afterwards.&lt;/p&gt;
 &lt;!-- end --&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;We started by discussing what personal values are, and why they are important.
@@ -222,17 +222,28 @@ But you don&apos;t need a template or Miro - you just need 10 post-it notes.&lt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Start by writing down 10 values that are important to you, one on each post-it note.
-We used this list for ideas, but you can pick values that are not on there too - as long as they&apos;re important to you.
-There is no right or wrong answer. It&apos;s ok for this first part to take a while - we took 5 minutes and that felt a little rushed.
-By the end of the time you should feel comfortable that once you have 10 values in your list, they are all important to you.&lt;/li&gt;
-&lt;li&gt;Next, we refine the values. 10 is a lot. You have 30 seconds. Discard the 3 &lt;em&gt;least&lt;/em&gt; important to you from the values you wrote down.&lt;/li&gt;
-&lt;li&gt;Now you have 20 seconds to discard 2 more.&lt;/li&gt;
-&lt;li&gt;For the last time - 20 seconds, discard 2 more. This is meant to be hard!&lt;/li&gt;
-&lt;li&gt;You now have your 3 core values. You might want to reword them or better define what they mean to you, add notes about why you chose them. Maybe you discarded something because you decided it was encompassed by one of your remaining values - add that note.
-Maybe you feel super uncomfortable about one of your last discards and want to bring that back in - that&apos;s ok. Having 3 - 5 core values is best.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start by writing down 10 values that are important to you, one on each post-it note.&lt;/strong&gt;
+You can look at a &lt;a href=&quot;https://examples.yourdictionary.com/examples-of-core-values.html&quot;&gt;list of examples&lt;/a&gt; for ideas if it helps.
+But don&apos;t let the list restrict you!
+There is no right or wrong answer.
+Each value should be important to &lt;em&gt;you&lt;/em&gt;.
+It&apos;s ok for this first part to take a while.
+We only spent 5 minutes on this and some people felt a little rushed.
+The timings for the next stages are strict, so take some extra time here to ensure everyone feels comfortable with their 10 values.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Next refine the values.&lt;/strong&gt;
+You have 30 seconds to discard the 3 &lt;em&gt;least&lt;/em&gt; important values of those you wrote down.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Refine again.&lt;/strong&gt;
+Now you have 20 seconds to discard 2 more.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;And again.&lt;/strong&gt;
+For the last time, take 20 seconds to discard 2 more. This is meant to be hard!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The values remaining are your 3 core values.&lt;/strong&gt;
+You might want to reword them or better define what they mean to you, and add notes about why you chose them.
+Maybe you discarded something because it was encompassed by one of your remaining values: is there a word or phrase that would better express both?
+If you feel super uncomfortable about one of your last discards it&apos;s ok to bring it back in.
+Having 3 - 5 core values is best. More than this would be too many to try and live by. &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ask the following questions:&lt;/p&gt;
+&lt;h2&gt;Discussion&lt;/h2&gt;
+&lt;p&gt;Now you have your values, discuss the following questions as a group:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What do I feel about the values I ended up with?&lt;/li&gt;
 &lt;li&gt;Were they as expected or did they surprise me?&lt;/li&gt;
@@ -240,20 +251,49 @@ Maybe you feel super uncomfortable about one of your last discards and want to b
 &lt;li&gt;What actions do I already take to live by them?&lt;/li&gt;
 &lt;li&gt;What actions would I like to take to live by them?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Here&apos;s what I came up with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Honesty&lt;/li&gt;
-&lt;li&gt;Freedom&lt;/li&gt;
-&lt;li&gt;Empathy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For me personally doing this exercise was powerful as it made me realise that there were some things going on in my life that directly conflicted with my personal values.
-When I realised this it intuitively made sense - I&apos;d been feeeling a deep sense of discomfort and couldn&apos;t put my finger on why.
+&lt;h2&gt;Finish up&lt;/h2&gt;
+&lt;p&gt;Your values are not static and are likely to change over time.
+They should be memorable and things that you feel strongly about at your core.&lt;/p&gt;
+&lt;p&gt;I found this exercise very powerful.
+I ended up with the following values:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3af24cd91ef8ec1063ff78992ba0f8e7/d9199/my-values.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACGklEQVQoz32S20tUURSH568KeoogCnrsJYgeDDPIhOhCRQ9BLxVYQw9ijz2EWVYORkVGiqWTg2neyMuMc7MHb3PZZ++zz9Fp9Gudo6OOUQ8fa5+9zl5r/9b+RRzHwVGKMNbY+VZCWdY11E5eKafuf7VvHdlL6PqigtWGDddl3QgSPWN2c7qGrj+zV1DrXYKOVg5n1lYZyudILAq/8swsL0mB7bw60DxsIrmI41VwZ/v4HWuh+v4GWz2X8QeiVK3lbSbF2aF+mhODNMQHeDQ9TlmUtOU87mc2aM1VeJCtMLVm8HXQRAoqfxM7+hI3egjbfgz38WG8rgtUReK7dIozsS4au19x+nUnD78PUxb516cVDaNFmsZKNE4ahlcM61rmHEr2q7jjMfKtR1mInmT+3hFWnjezZV0+ZNO0DPZzM/6FS1/7aJscQ7mW2z+WONf7k6a+Oc7HF0kEBc32GOSGVfyJGDw9AR2nJB6n2n2RisywN5vhqki9MxLn1sg3ns3PhJLvZje5koFrQktqS27osmF2JDuuj85Psfz5CbmP7SR7oiwn3uBKwUKpxNxCitlkkvRinrViUR7N8ClX4MV0jo6xJJ0TabIFJY7QoVPklcVfxlIwFVYdnxVlKWpv99U8maUNkAZGb1vLVyW8chFbKmDLBYyz59FIzcjBZogMVzuqzrRqn6kDguGr0GJGovmXsf/2VI2De/878wdymxnUrHd4nQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;My values - honesty, empathy, freedom&quot;
+        title=&quot;My values - honesty, empathy, freedom&quot;
+        src=&quot;/static/3af24cd91ef8ec1063ff78992ba0f8e7/0a47e/my-values.png&quot;
+        srcset=&quot;/static/3af24cd91ef8ec1063ff78992ba0f8e7/8a4e8/my-values.png 150w,
+/static/3af24cd91ef8ec1063ff78992ba0f8e7/5a46d/my-values.png 300w,
+/static/3af24cd91ef8ec1063ff78992ba0f8e7/0a47e/my-values.png 600w,
+/static/3af24cd91ef8ec1063ff78992ba0f8e7/1cfc2/my-values.png 900w,
+/static/3af24cd91ef8ec1063ff78992ba0f8e7/d9199/my-values.png 960w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Realising these were the values most important to me helped me identify things in my life that were in direct conflict with these values.
+Before I&apos;d been feeling a deep sense of discomfort and couldn&apos;t put my finger on why.
 Having a clear set of values helped me better articulate what I was feeling, and then change the situation.
 Since doing this exercise I&apos;ve left a job that had become bad for me.
 I&apos;ve started somewhere new where I feel aligned with the values of my team and company.&lt;/p&gt;
-&lt;p&gt;Finally, your values are not static and are likely to change over time. They should be memorable and things that you feel strongly about at your core.&lt;/p&gt;
-&lt;p&gt;Somehow attach the miro template / pdf
-&lt;a href=&quot;https://drive.google.com/drive/u/0/search?q=values&quot;&gt;https://drive.google.com/drive/u/0/search?q=values&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Snow fun in 2021]]></title><description><![CDATA[Some photos from running and sliding in the snowy Pentlands over the last few weeks...]]></description><link>https://powderach.com/posts/snow-fun-in-2021</link><guid isPermaLink="false">https://powderach.com/posts/snow-fun-in-2021</guid><pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Some photos from running and sliding in the snowy Pentlands over the last few weeks...&lt;/p&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/Values%20workshop.pdf&quot;&gt;Instructions as pdf&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Snow fun in 2021]]></title><description><![CDATA[Some photos from running and sliding in the snowy Pentlands over the last few weeks...]]></description><link>https://powderach.com/posts/snow-fun-in-2021</link><guid isPermaLink="false">https://powderach.com/posts/snow-fun-in-2021</guid><pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Some photos from running and sliding in the snowy Pentlands over the last few weeks...&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
     &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
