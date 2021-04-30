@@ -30,10 +30,14 @@ const CvPage = ({}) => {
                 <h2>Employment History</h2>
                 <ul style={{listStyle: 'none'}}>
                     <li>
+                        <h3>Software Engineer, Administrate</h3>
+                        <p><i>Jan 2021 - present</i></p>
+                    </li>
+                    <li>
                         <h3>Principal Engineer, Tes Global</h3>
                         <p><i>Sept 2019 - Jan 2021</i></p>
-                        <p>I lead remote-first teams of software engineers building products to help schools recruit teachers. We build full-stack microservices in Nodejs and React across a range of products that help teachers apply for jobs and schools find the right teachers.</p>
-                        <p>My job includes:</p>
+                        <p>I led remote-first teams of software engineers building products to help schools recruit teachers. We built full-stack microservices in Nodejs and React across a range of products to help teachers apply for jobs and schools find the right teachers.</p>
+                        <p>My job included:</p>
                         <ul>
                             <li>mentoring and helping individuals to be more effective through pairing and coaching</li>
                             <li>helping teams work better together across multiple locations and timezones</li>
