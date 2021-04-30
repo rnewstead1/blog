@@ -633,6 +633,12 @@ pre tt:after {
   margin-right: 1rem;
 }
 
+.inline-image-right-sm {
+  width: 40%;
+  float: right;
+  margin-left: 1rem;
+}
+
 .inline-image-right {
   width: 50%;
   float: right;
