@@ -224,6 +224,10 @@ This time I told myself _you got this_, rather than doubt myself.
 
 **_Surrender is your only option_**
 
-Aside from a dark 10th Exposure, I had a positive experience, and I'm now excited about more racing this summer.
+Aside from a dark 10th Exposure I had a positive experience.
+I ran 52 miles in under 7 hours (6:56:47) which is certainly faster than I've run that far before.
+But I could have run a lot further in 12 hours by running continuously, and I suspect I would have felt less destroyed afterwards!
+Running this way was fun but not sustainable.
+I'm now excited about more racing this summer.
 Thanks to the Pyllon crew for a fun and impeccably organised event.
 I look forward to the next one!
