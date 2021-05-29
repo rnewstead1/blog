@@ -1,11 +1,9 @@
 ---
-path: "/posts/ultramarathon-thoughts"
+path: "/posts/north-downs-way-race"
 date: "2021-05-29"
-title: "Ultramarathon Thoughts"
+title: "North Downs Way 50 mile race"
 ---
 <div style="text-align: center">
-<h2>North Downs Way 50 mile Race</h2> 
-
 It's early.<br/>
 I'm ready to run<br/>
 Am I ready to race?<br/>
@@ -16,7 +14,7 @@ I don't know what I'm doing any more<br/>
 James tells me there are 2 ladies down the road<br/>
 I start
 
-![Start line](../images/ultramarathon-thoughts/start.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
+![Start line](../images/north-downs-way-race/start.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
 
 <!-- end -->
 I ran this trail before the pandemic<br/>
@@ -48,7 +46,7 @@ I'm envious<br/>
 My steps feel heavy<br/>
 Maybe in Helios I would fly too
 
-![Approaching the second aid station](../images/ultramarathon-thoughts/newlands-1.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
+![Approaching the second aid station](../images/north-downs-way-race/newlands-1.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
 
 Aid stations are hard<br/>
 Hands slick from sanitizer can't open bottles<br/>
@@ -66,7 +64,7 @@ I remember racing through vineyards in the rain<br/>
 Up one row<br/>
 Down the next
 
-![Still smiling](../images/ultramarathon-thoughts/newlands-2.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
+![Still smiling](../images/north-downs-way-race/newlands-2.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
 
 We double back to the underpass<br/>
 Why didn't they put it closer to Box Hill?<br/>
@@ -151,7 +149,7 @@ Always finish strong<br/>
 I remember to smile<br/>
 It's done
 
-![My first Centurion medal](../images/ultramarathon-thoughts/medal.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
+![My first Centurion medal](../images/north-downs-way-race/medal.jpg "📷 Stuart March Photography http://www.stuartmarchphotography.co.uk/")
 
 08:20:49<br/>
 3rd Female<br/>
