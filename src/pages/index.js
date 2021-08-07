@@ -25,8 +25,9 @@ const IndexPage = ({
                   dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
             </div>
           </div>
+          <hr />
           <Link to="/all-posts">See all running posts</Link>
-          <p>I'm moving my blog here. For older posts go <a href="https://powderach-running.blogspot.com/">here</a>.</p>
+          <p>Older posts <a href="https://powderach-running.blogspot.com/">here</a>.</p>
         </div>
         <div className="right-panel">
         <div style={{ marginBottom: '1rem' }}>
