@@ -1,13 +1,13 @@
 ---
 path: "/posts/lakeland-100"
-date: "2021-08-06"
+date: "2021-08-07"
 title: "Lakeland 100"
 ---
 
 Where to start?
-I ran 105 miles!
-It still hasn't fully sunk in yet.
-Andy pointed out the other day that I've been building up to a hundred for the last five years.
+**I ran 105 miles!**
+Even two weeks later it still hasn't fully sunk in yet.
+Andy pointed out that I've been building up to running a hundred for the last five years.
 I didn't know I could do it, but I kept going, and I did!
 My goal was to finish the race - my first 100 miles.
 I finished, and had a solid run that I'm proud of.
