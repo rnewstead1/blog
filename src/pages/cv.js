@@ -30,8 +30,14 @@ const CvPage = ({}) => {
                 <h2>Employment History</h2>
                 <ul style={{listStyle: 'none'}}>
                     <li>
+                        <h3>Principal Software Engineer, Octopus Hydrogen</h3>
+                        <p><i>Aug 2021 - present</i></p>
+                        <p>I'm currently working with Octopus Hydrogen, developing hydrogen production sites to supply zero emission fuel to HGVs, buses and aviation. We’re developing an IoT solution with support from AWS that will enable us to ramp up/down operations depending on the price of electricity and the availability of renewable power.</p>
+                    </li>
+                    <li>
                         <h3>Software Engineer, Administrate</h3>
-                        <p><i>Jan 2021 - present</i></p>
+                        <p><i>Jan 2021 - Aug 2021</i></p>
+                        <p>I led a small scrum team responsible for Administrate's Learning Management System (LMS). My responsibilities included planning the delivery of projects with customers, running scrum ceremonies, and building software solutions using Python, NodeJS, React and TypeScript.</p>
                     </li>
                     <li>
                         <h3>Principal Engineer, Tes Global</h3>
