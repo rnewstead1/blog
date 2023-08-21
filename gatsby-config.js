@@ -32,7 +32,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 600,
+              maxWidth: 800,
               showCaptions: ['title'],
               markdownCaptions: true,
               backgroundColor: 'none',
@@ -57,7 +57,6 @@ module.exports = {
     },
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-twitter',
     {
       resolve: 'gatsby-plugin-feed',
       options: {

@@ -45,7 +45,6 @@ const IndexPage = ({
               </div>
             </div>
           </div>
-          <a className="twitter-timeline" href="https://twitter.com/powderach?ref_src=twsrc%5Etfw" data-height="1000">Latest tweets</a>
         </div>
       </div>
     </Layout>
