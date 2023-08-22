@@ -1,10 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
-import PostLink from "../components/post-link"
 import PostExcerpt from "../components/post-excerpt"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import profilePhoto from "../images/RachelNormand.jpg"
+import profilePhoto from "../images/RachelNormand.jpeg"
 
 const TechPostsPage = ({
   data: {
@@ -17,20 +16,25 @@ const TechPostsPage = ({
   return (
     <Layout>
       <SEO title="Tech stuff" />
-      <div className="home-container" style={{ display: 'flex', justifyContent: 'space-between' }}>
-        <div className="left-panel" style={{ width: '65%' }}>
-            <div>{TechPosts}</div>
+      <div>
+        <div className="home-container-two-column" style={{ 'border-bottom': '1px dotted gray' }}>
+          <div className="left-panel">
+            <h2>Rachel Normand</h2>
+            <p>Software Engineer</p>
+            <ul style={{ listStyle: `none` }}>
+              <li><a href="/cv">Curriculum Vitae</a></li>
+              <li><a href="http://github.com/rnewstead1">Github</a></li>
+              <li><a href="https://www.linkedin.com/in/rnewstead/">LinkedIn</a></li>
+              <li><a href="https://rnewstead1.github.io/presentations/">Presentations</a></li>
+            </ul>
+          </div>
+          <div className="right-panel">
+            <img style={{ width: '70%' }} src={profilePhoto}></img>
+          </div>
         </div>
-        <div className="right-panel" style={{ width: '30%' }}>
-          <img style={{ width: '70%', filter: 'grayscale(100%)' }} src={profilePhoto}></img>
-          <h2>Rachel Normand</h2>
-          <p>Software Engineer</p>
-          <ul style={{ listStyle: `none` }}>
-            <li><a href="/cv">Curriculum Vitae</a></li>
-            <li><a href="http://github.com/rnewstead1">Github</a></li>
-            <li><a href="https://www.linkedin.com/in/rnewstead/">LinkedIn</a></li>
-            <li><a href="https://rnewstead1.github.io/presentations/">Presentations</a></li>
-          </ul>
+        <div>
+          <h2>Tech blog posts</h2>
+          {TechPosts}
         </div>
     </div>
     </Layout>

@@ -18,11 +18,9 @@ const CvPage = ({}) => {
 
             <div className="cv-section">
                 <h2>About me</h2>
-                <p>I've been a software engineer for nine years, working across a range of domains and technologies.
-                    Most recently I've been building full stack Node.js microservices to help teachers and schools at Tes.
-                    In the last year I've been leading teams of four to seven engineers working across multiple locations and timezones.
-                    I've helped to build a remote-first culture through mentoring and coaching individuals and teams.
-                    I'm happiest helping teams work together and building great products.
+                <p>
+                    I've been a software engineer for twelve years, working across a range of domains and technologies.
+                    I'm currently focused on using my skills to help tackle climate change.
                 </p>
             </div>
 
@@ -30,9 +28,21 @@ const CvPage = ({}) => {
                 <h2>Employment History</h2>
                 <ul style={{listStyle: 'none'}}>
                     <li>
+                        <h3>Senior Software Engineer, KrakenFlex (part of Octopus Energy Group)</h3>
+                        <p><i>June 2023 - present</i></p>
+                    </li>
+                    <li>
                         <h3>Principal Software Engineer, Octopus Hydrogen</h3>
-                        <p><i>Aug 2021 - present</i></p>
-                        <p>I'm currently working with Octopus Hydrogen, developing hydrogen production sites to supply zero emission fuel to HGVs, buses and aviation. We’re developing an IoT solution with support from AWS that will enable us to ramp up/down operations depending on the price of electricity and the availability of renewable power.</p>
+                        <p><i>Aug 2021 - June 2023</i></p>
+                        <p>I worked on a small team to develop an Industrial IoT platform that helps companies to produce hydrogen in the cheapest, greenest way possible.</p>
+                        <p>My role included:</p>
+                        <ul>
+                            <li>Full stack development from frontend dashboards using React.js, to Greengrass IoT components using Python and deployed on edge devices</li>
+                            <li>Infrastructure as code using Pulumi</li>
+                            <li>Setting up alerts and monitoring of services</li>
+                            <li>Working closely with the CTO to hire additional software engineers (growing from a team of 3 engineers to 8 over a year)</li>
+                            <li>Helped to establish a high-trust and high-velocity culture</li>
+                        </ul>
                     </li>
                     <li>
                         <h3>Software Engineer, Administrate</h3>

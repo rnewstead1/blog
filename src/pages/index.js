@@ -2,7 +2,6 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import pentlands from "../images/pentlands.jpg"
 
 const IndexPage = ({
   data: {
@@ -14,38 +13,19 @@ const IndexPage = ({
     <Layout>
       <SEO title="Home" />
       <div className="home-container">
-        <div className="left-panel">
-          <div className="blog-post-container">
-            <div className="blog-post">
-              <Link to={LatestPost.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
-                <h2>{LatestPost.frontmatter.title}</h2>
-              </Link>
-              <h3>{LatestPost.frontmatter.date}</h3>
-              <div className="blog-post-content"
-                  dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
-            </div>
-          </div>
-          <hr />
-          <Link to="/all-posts">See all running posts</Link>
-          <p>Older posts <a href="https://powderach-running.blogspot.com/">here</a>.</p>
-        </div>
-        <div className="right-panel">
-        <div style={{ marginBottom: '1rem' }}>
-            <img src={pentlands} alt="Pentland Hills" />
-            <div style={{ marginBottom: '1rem', width: '80%', marginLeft: 'auto', marginRight: 'auto', padding: '1rem' }}>
-              <i>Hill repeats & recover, <a href="https://linktr.ee/runwildandbepoetry" style={{ textDecoration: 'none', color: '#000' }}>Sydney Zester</a></i><br/><br/>
-              <div style={{ textAlign: 'right' }}>
-                some days we bundle up<br/>
-                and run hill repeats outside<br/>
-                in the hollow winter air.<br/>
-                other days we wrap up cozy<br/>
-                and slurp mugs of coffee<br/>
-                while snug on the sofa.<br/>
-                i think it’s best to do both.<br/>
-              </div>
-            </div>
+        <div className="blog-post-container">
+          <div className="blog-post">
+            <Link to={LatestPost.frontmatter.path} style={{ textDecoration: 'none', color: '#000'}}>
+              <h2>{LatestPost.frontmatter.title}</h2>
+            </Link>
+            <h3>{LatestPost.frontmatter.date}</h3>
+            <div className="blog-post-content"
+                dangerouslySetInnerHTML={{ __html: LatestPost.html }}/>
           </div>
         </div>
+        <hr />
+        <Link to="/all-posts">See all running posts</Link>
+        <p>Older posts <a href="https://powderach-running.blogspot.com/">here</a>.</p>
       </div>
     </Layout>
   )

@@ -7,11 +7,10 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
-import rssIcon from '../images/rss.png';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -46,11 +45,6 @@ const Layout = ({ children }) => {
               © {new Date().getFullYear()}, Built with
               {` `}
               <a href="https://www.gatsbyjs.org">Gatsby</a>
-            </div>
-            <div>
-              <ul style={{ listStyle: 'none' }}>
-                <li><Link to="/rss.xml" ><img src={rssIcon} alt="rss" width="30px" /></Link></li>
-              </ul>
             </div>
           </div>
         </footer>

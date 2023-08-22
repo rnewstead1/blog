@@ -654,14 +654,15 @@ pre tt:after {
   margin-bottom: 1rem;
 }
 
-.home-container {
+.home-container-two-column {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+  margin-bottom: 1rem;
 }
 
 .left-panel {
-  width: 85%;
+  width: 65%;
 }
 
 .right-panel {
@@ -670,7 +671,7 @@ pre tt:after {
 
 /* Responsive layout - makes a one column layout instead of a two-column layout */
 @media (max-width: 414px) {
-  .home-container {
+  .home-container-two-column {
     flex-direction: column;
   }
 
