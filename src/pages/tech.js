@@ -15,7 +15,7 @@ const TechPostsPage = ({
   
   return (
     <Layout>
-      <SEO title="Tech stuff" />
+      <SEO title="Tech stuff" imageShare="/RachelNormand.jpeg" />
       <div>
         <div className="home-container-two-column" style={{ 'border-bottom': '1px dotted gray' }}>
           <div className="left-panel">

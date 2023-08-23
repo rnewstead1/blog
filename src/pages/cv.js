@@ -1,11 +1,10 @@
 import React from "react"
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const CvPage = ({}) => {
   return (
       <>
-        <SEO title="CV" />
+        <SEO title="CV" imageShare="/RachelNormand.jpeg" />
         <div style={{
           margin: `0 auto`,
           maxWidth: 960,
