@@ -10,9 +10,10 @@ export default function Template({
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
 
+  const imageShare = frontmatter.imageShare ? frontmatter.imageShare.publicURL : '/default.jpeg';
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
+      <SEO title={frontmatter.title} imageShare={imageShare} />
       <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
@@ -36,6 +37,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        imageShare {
+          publicURL
+        }
       }
     }
   }

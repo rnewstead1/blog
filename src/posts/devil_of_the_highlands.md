@@ -2,6 +2,7 @@
 path: "/posts/devil-o-the-highlands"
 date: "2023-08-22"
 title: "Devil o' the Highlands Footrace"
+imageShare: ../images/devil-of-the-highlands/finish_line.jpeg
 ---
 
 ![Smiles at Cow Hill](../images/devil-of-the-highlands/smiles_at_cow_hill.jpeg "📷 Michael Philp")
