@@ -9,7 +9,8 @@ This post is inspired by a few conversations I’ve had recently.
 I was on the [Pyllon Ultra Pod](https://www.pyllonultra.com/podcast) talking about running through pregnancy and postpartum with John Connolly and Paul Giblin.
 It was refreshing to have this conversation with two men and I appreciated their openness and willingness to engage on the topics.
 Subsequent conversations with friends made me realize that there’s still lots of uncertainty and confusion about what you can do when pregnant.
-I wanted to share what I’m doing to stay active this time around.
+I wanted to share what I’m doing to stay active this time around, with the caveat that my pregnancy has so far been straightforward.
+My midwife has advised that staying active makes sense for me, but everyone and every pregnancy is different so this won't work for everyone.
 
 <!-- end -->
 I must confess I don’t love being pregnant!
@@ -62,7 +63,7 @@ I also tell myself that anything I can do now (walking, core work, strength trai
 
 I do find it hard to accept the physical loss of control of my body.
 As an athlete I’m used to having fine-grained control of my body through diet and training.
-In pregnancy I can’t control the way it changes grow and my growing belly is a constant reminder of this.
+In pregnancy I can’t control the way it changes and my growing belly is a constant reminder of this.
 Everything feels harder as I’m carrying more weight and my heart and lungs are being squished by the baby.
 I get out of breath very easily!
 However one advantage of being an athlete is that I’m good at listening to my body, and trusting that it knows what it's doing.
